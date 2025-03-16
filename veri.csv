@@ -1,0 +1,1001 @@
+Marka,Model,Model_Yili,Kilometre,Yakit_Tipi,Vites_Tipi,Motor_Hacmi,Motor_Gucu,Fiyat
+Renault,Kadjar,2010,113689,LPG,Manuel,2.2,179,399000.0
+Renault,Megane,2019,34844,Benzin,Manuel,2.0,211,530000.0
+Ford,Focus,2021,181752,Benzin,Otomatik,1.0,197,554000.0
+Hyundai,i10,2020,44234,Benzin,Otomatik,1.6,123,485000.0
+Audi,Q5,2021,108588,Dizel,Otomatik,1.4,116,699000.0
+Honda,City,2013,20638,LPG,Manuel,1.4,113,463000.0
+Honda,City,2010,67132,Dizel,Otomatik,1.6,160,447000.0
+BMW,5 Serisi,2020,210190,Benzin,Manuel,1.4,190,776000.0
+Audi,A3,2011,272882,Dizel,Otomatik,2.2,199,599000.0
+BMW,X5,2023,119590,Benzin,Manuel,2.2,135,863000.0
+Hyundai,i20,2011,144645,Dizel,Manuel,2.2,204,423000.0
+BMW,X5,2020,112713,LPG,Manuel,1.0,152,729000.0
+Mercedes,E Serisi,2010,217772,LPG,Manuel,2.2,77,543000.0
+Audi,A3,2017,292974,LPG,Manuel,2.2,90,644000.0
+Toyota,Corolla,2015,223470,Dizel,Manuel,1.8,213,561000.0
+Audi,A3,2018,123232,Dizel,Otomatik,1.6,132,663000.0
+BMW,5 Serisi,2012,294392,Dizel,Manuel,1.2,123,541000.0
+Ford,Kuga,2021,265598,LPG,Otomatik,2.2,164,594000.0
+Audi,Q5,2021,220452,Benzin,Manuel,1.8,82,695000.0
+Volkswagen,Passat,2012,8778,Benzin,Otomatik,1.6,115,500000.0
+Hyundai,i10,2024,99849,LPG,Manuel,2.2,95,551000.0
+Renault,Megane,2013,224333,LPG,Otomatik,2.2,112,405000.0
+Hyundai,Tucson,2024,163850,Benzin,Otomatik,1.4,86,508000.0
+Hyundai,i20,2012,206558,Benzin,Manuel,2.0,245,443000.0
+Ford,Focus,2023,132148,Dizel,Otomatik,1.6,184,610000.0
+Fiat,500,2018,167706,LPG,Manuel,1.4,224,435000.0
+Toyota,RAV4,2013,257706,LPG,Manuel,1.6,202,509000.0
+Mercedes,C Serisi,2018,127217,Dizel,Otomatik,2.2,214,813000.0
+Ford,Focus,2020,125513,LPG,Otomatik,1.0,221,554000.0
+Renault,Clio,2019,77375,LPG,Manuel,1.8,203,515000.0
+Hyundai,i20,2019,108710,Benzin,Manuel,1.0,119,440000.0
+Ford,Focus,2018,34384,Benzin,Manuel,1.0,192,514000.0
+Mercedes,E Serisi,2014,26759,LPG,Otomatik,2.0,121,657000.0
+Fiat,500,2015,244006,LPG,Manuel,1.6,120,362000.0
+Mercedes,E Serisi,2022,126938,LPG,Otomatik,1.2,106,751000.0
+Toyota,Corolla,2012,289688,LPG,Manuel,2.0,181,502000.0
+Renault,Kadjar,2012,198353,LPG,Manuel,2.0,156,403000.0
+Mercedes,A Serisi,2014,287390,LPG,Otomatik,1.0,149,588000.0
+Hyundai,i20,2019,45752,Benzin,Otomatik,1.8,212,521000.0
+Toyota,Corolla,2023,54347,LPG,Otomatik,1.2,243,686000.0
+Audi,Q5,2020,80235,Dizel,Manuel,1.6,131,704000.0
+Audi,Q5,2011,276666,Benzin,Manuel,1.6,224,576000.0
+BMW,3 Serisi,2014,139350,LPG,Otomatik,1.4,215,673000.0
+Audi,Q5,2011,88300,Dizel,Manuel,1.8,133,542000.0
+Mercedes,E Serisi,2014,82687,Benzin,Otomatik,1.2,179,638000.0
+Toyota,Yaris,2024,182464,Benzin,Manuel,2.0,102,662000.0
+Renault,Megane,2012,7017,LPG,Otomatik,2.2,129,409000.0
+Volkswagen,Golf,2016,173653,Dizel,Manuel,1.2,211,596000.0
+Audi,A4,2015,147808,Benzin,Otomatik,1.8,242,687000.0
+Toyota,Yaris,2024,71478,Benzin,Manuel,1.0,170,651000.0
+Ford,Focus,2013,110983,Benzin,Manuel,2.0,171,475000.0
+Ford,Focus,2015,186709,Dizel,Manuel,1.8,196,504000.0
+Honda,Civic,2010,4654,Benzin,Manuel,2.2,98,450000.0
+Mercedes,C Serisi,2019,28095,Benzin,Manuel,1.8,124,750000.0
+BMW,3 Serisi,2010,18137,Dizel,Otomatik,1.6,138,557000.0
+Volkswagen,Golf,2012,19119,Benzin,Otomatik,2.2,102,528000.0
+Mercedes,C Serisi,2019,136268,Benzin,Otomatik,2.2,229,844000.0
+Ford,Fiesta,2020,193036,Benzin,Manuel,2.0,195,588000.0
+Renault,Clio,2019,249558,Dizel,Manuel,1.0,159,452000.0
+Toyota,Corolla,2013,31448,LPG,Manuel,1.8,79,465000.0
+Toyota,Yaris,2016,88683,Dizel,Otomatik,1.8,153,552000.0
+Volkswagen,Golf,2015,184287,Benzin,Manuel,2.0,83,549000.0
+Hyundai,Tucson,2016,239812,Dizel,Otomatik,1.4,238,465000.0
+Mercedes,A Serisi,2017,160479,Benzin,Manuel,1.6,245,769000.0
+Audi,Q5,2015,204173,Dizel,Otomatik,1.6,190,637000.0
+Honda,City,2023,63210,Dizel,Otomatik,1.4,86,610000.0
+Hyundai,i10,2011,256553,Benzin,Manuel,1.4,146,356000.0
+Volkswagen,Golf,2017,79414,LPG,Manuel,2.0,146,629000.0
+Honda,CR-V,2010,201597,Benzin,Otomatik,2.0,143,453000.0
+Fiat,Egea,2022,290705,Benzin,Manuel,1.8,228,496000.0
+Honda,Civic,2019,205865,Benzin,Manuel,2.0,82,567000.0
+Fiat,Egea,2013,104063,Dizel,Otomatik,1.6,166,362000.0
+Volkswagen,Passat,2011,33340,LPG,Manuel,2.0,233,576000.0
+Fiat,Egea,2013,71608,Dizel,Manuel,1.2,127,332000.0
+Toyota,Yaris,2023,191776,Dizel,Otomatik,1.8,195,685000.0
+Honda,CR-V,2014,87545,LPG,Manuel,1.2,123,470000.0
+Volkswagen,Polo,2015,193559,Dizel,Otomatik,2.0,234,639000.0
+Audi,A3,2010,147029,LPG,Otomatik,1.6,89,477000.0
+Hyundai,i10,2015,216641,Benzin,Otomatik,1.2,223,437000.0
+Hyundai,i20,2018,59560,Benzin,Otomatik,1.2,221,484000.0
+Audi,Q5,2019,121717,Dizel,Otomatik,1.2,193,696000.0
+Audi,Q5,2013,268879,Dizel,Manuel,1.6,206,604000.0
+BMW,5 Serisi,2021,69138,LPG,Manuel,1.6,128,778000.0
+Ford,Fiesta,2013,115347,Benzin,Manuel,1.4,168,443000.0
+Ford,Fiesta,2018,30378,Benzin,Otomatik,1.2,209,533000.0
+Audi,A3,2019,96646,LPG,Otomatik,1.6,218,740000.0
+Honda,Civic,2011,294212,Dizel,Otomatik,1.8,97,428000.0
+Audi,A3,2022,95793,LPG,Manuel,1.0,82,671000.0
+Mercedes,C Serisi,2014,282494,Dizel,Otomatik,2.0,137,650000.0
+Ford,Kuga,2017,168545,LPG,Manuel,1.6,204,529000.0
+Mercedes,E Serisi,2020,298899,Benzin,Manuel,1.2,246,795000.0
+Mercedes,E Serisi,2010,59439,Benzin,Manuel,1.8,209,618000.0
+BMW,3 Serisi,2020,31224,LPG,Otomatik,2.2,244,883000.0
+Volkswagen,Passat,2010,86164,Dizel,Otomatik,1.0,219,486000.0
+Audi,A3,2015,260015,Dizel,Otomatik,2.0,127,618000.0
+Ford,Fiesta,2020,287709,Dizel,Manuel,1.6,184,558000.0
+Fiat,500,2022,111012,Benzin,Otomatik,1.2,203,469000.0
+Fiat,Egea,2014,115080,LPG,Manuel,1.8,99,355000.0
+Hyundai,Tucson,2013,168533,Benzin,Manuel,1.4,236,427000.0
+Hyundai,i10,2012,224998,Dizel,Otomatik,1.2,165,370000.0
+Volkswagen,Passat,2020,151607,LPG,Manuel,1.4,142,640000.0
+Renault,Kadjar,2019,134611,Benzin,Manuel,1.2,204,486000.0
+Ford,Fiesta,2013,12034,LPG,Otomatik,2.2,158,483000.0
+Volkswagen,Golf,2019,17153,Benzin,Manuel,1.6,187,669000.0
+Ford,Fiesta,2014,92444,Dizel,Manuel,1.2,148,439000.0
+Renault,Clio,2017,144339,LPG,Otomatik,1.6,128,443000.0
+Mercedes,A Serisi,2015,50496,Dizel,Otomatik,2.2,204,748000.0
+Volkswagen,Polo,2013,244501,LPG,Manuel,1.8,109,513000.0
+Volkswagen,Passat,2021,234284,Benzin,Otomatik,1.0,87,596000.0
+Toyota,Corolla,2019,206330,Dizel,Otomatik,1.8,224,634000.0
+Fiat,Doblo,2017,206731,Benzin,Manuel,1.8,225,438000.0
+Hyundai,i10,2012,294888,Benzin,Manuel,2.2,160,410000.0
+Honda,CR-V,2017,70216,Dizel,Manuel,2.0,232,624000.0
+Volkswagen,Golf,2013,241005,Dizel,Otomatik,1.6,120,508000.0
+Toyota,RAV4,2014,10471,Dizel,Manuel,1.6,183,529000.0
+Mercedes,C Serisi,2019,82267,LPG,Manuel,1.4,185,761000.0
+Toyota,Yaris,2015,245754,Dizel,Manuel,1.0,106,457000.0
+Fiat,500,2023,199394,Benzin,Manuel,1.2,218,483000.0
+Audi,A3,2011,255877,Dizel,Otomatik,1.2,132,492000.0
+Audi,A4,2018,133387,LPG,Otomatik,1.8,146,684000.0
+Toyota,Corolla,2018,77515,LPG,Manuel,1.0,206,571000.0
+Fiat,Doblo,2024,276221,Dizel,Otomatik,1.2,217,492000.0
+Toyota,RAV4,2011,264737,Dizel,Otomatik,2.0,175,483000.0
+Mercedes,A Serisi,2013,101729,Benzin,Otomatik,1.6,218,670000.0
+Renault,Megane,2017,281117,Benzin,Manuel,1.6,165,453000.0
+Renault,Clio,2022,299165,LPG,Manuel,2.0,123,519000.0
+Toyota,RAV4,2014,222391,Dizel,Manuel,1.6,218,537000.0
+Hyundai,i10,2013,145872,Dizel,Otomatik,2.2,79,393000.0
+Volkswagen,Passat,2018,110693,Dizel,Manuel,2.0,88,610000.0
+Mercedes,E Serisi,2013,234842,Benzin,Manuel,2.2,148,654000.0
+Honda,Civic,2022,150363,Benzin,Manuel,1.8,201,674000.0
+Honda,City,2024,3233,Dizel,Otomatik,1.0,167,653000.0
+Audi,A4,2010,240936,LPG,Otomatik,1.4,162,506000.0
+Hyundai,i20,2015,66241,LPG,Manuel,1.6,180,443000.0
+BMW,X5,2013,197749,LPG,Otomatik,2.2,164,668000.0
+Toyota,Yaris,2015,195663,Dizel,Manuel,1.2,106,471000.0
+Hyundai,i20,2019,180645,Benzin,Otomatik,2.2,117,490000.0
+Volkswagen,Polo,2011,173077,LPG,Manuel,1.8,119,487000.0
+Honda,CR-V,2019,247265,Benzin,Manuel,1.6,117,562000.0
+Renault,Kadjar,2018,118063,Benzin,Manuel,1.4,233,496000.0
+Ford,Focus,2019,211800,Benzin,Manuel,1.4,169,529000.0
+Volkswagen,Passat,2014,270286,Dizel,Otomatik,2.2,102,549000.0
+BMW,5 Serisi,2023,241056,Dizel,Manuel,2.2,129,850000.0
+BMW,5 Serisi,2016,263482,Benzin,Otomatik,2.2,130,703000.0
+Hyundai,i10,2012,173379,LPG,Otomatik,1.6,231,420000.0
+BMW,5 Serisi,2012,124622,Dizel,Manuel,1.6,99,565000.0
+Fiat,Doblo,2012,134079,Dizel,Manuel,2.2,128,358000.0
+Toyota,Yaris,2022,225984,LPG,Otomatik,2.0,136,645000.0
+Toyota,Yaris,2017,152518,Dizel,Manuel,1.0,147,518000.0
+Renault,Clio,2022,25386,LPG,Manuel,1.4,236,555000.0
+Renault,Clio,2021,294112,Dizel,Otomatik,2.0,100,495000.0
+Mercedes,C Serisi,2015,206023,Dizel,Manuel,1.4,147,641000.0
+Hyundai,i20,2024,280145,LPG,Otomatik,2.2,233,605000.0
+BMW,5 Serisi,2023,200868,Dizel,Otomatik,2.0,185,878000.0
+Hyundai,i20,2018,167269,Dizel,Manuel,1.2,207,473000.0
+Volkswagen,Passat,2024,91333,Dizel,Otomatik,1.2,135,700000.0
+Volkswagen,Golf,2013,132104,LPG,Otomatik,1.0,172,509000.0
+Hyundai,Tucson,2013,29890,Dizel,Otomatik,2.2,200,453000.0
+Fiat,500,2015,110187,LPG,Manuel,1.6,148,379000.0
+Audi,A4,2013,237507,Benzin,Manuel,1.4,243,617000.0
+BMW,5 Serisi,2014,5819,Dizel,Manuel,1.6,132,638000.0
+Mercedes,C Serisi,2024,273762,Dizel,Otomatik,2.2,121,864000.0
+Renault,Kadjar,2011,204827,Benzin,Manuel,1.6,91,342000.0
+BMW,3 Serisi,2024,7459,LPG,Manuel,1.2,85,787000.0
+Volkswagen,Passat,2018,93347,Dizel,Otomatik,2.0,244,705000.0
+Renault,Kadjar,2017,28676,LPG,Otomatik,1.8,153,468000.0
+Toyota,RAV4,2022,39458,LPG,Manuel,1.0,182,626000.0
+Fiat,Doblo,2018,280273,Benzin,Manuel,1.8,90,393000.0
+Honda,City,2022,190013,Benzin,Otomatik,1.4,177,637000.0
+Ford,Fiesta,2011,181671,LPG,Otomatik,2.2,191,461000.0
+Toyota,RAV4,2013,158240,Benzin,Manuel,2.2,194,543000.0
+Ford,Focus,2020,146785,Benzin,Otomatik,1.2,77,491000.0
+Volkswagen,Golf,2023,7419,Dizel,Manuel,2.0,220,786000.0
+Hyundai,i20,2012,176733,Benzin,Manuel,1.2,138,360000.0
+Audi,Q5,2014,5680,Dizel,Otomatik,1.4,112,566000.0
+Ford,Kuga,2024,260656,Benzin,Manuel,1.4,128,581000.0
+Honda,City,2010,9666,LPG,Otomatik,1.6,244,497000.0
+BMW,X5,2020,103214,Dizel,Manuel,1.4,225,808000.0
+Renault,Kadjar,2021,52478,Dizel,Otomatik,2.2,183,552000.0
+Renault,Kadjar,2018,295818,Benzin,Otomatik,1.4,208,476000.0
+Hyundai,Tucson,2017,114451,Benzin,Otomatik,1.2,116,421000.0
+Audi,Q5,2022,275552,Dizel,Manuel,1.0,195,733000.0
+Renault,Kadjar,2021,146666,Benzin,Manuel,1.6,136,500000.0
+Fiat,500,2019,178971,LPG,Manuel,2.0,121,429000.0
+BMW,3 Serisi,2013,133703,Benzin,Otomatik,1.6,173,637000.0
+Fiat,Egea,2017,68071,Benzin,Otomatik,1.8,88,388000.0
+Mercedes,E Serisi,2019,166450,Benzin,Manuel,1.6,220,793000.0
+Hyundai,i20,2014,202671,LPG,Otomatik,1.4,236,439000.0
+Ford,Fiesta,2014,291969,LPG,Manuel,1.8,215,493000.0
+Volkswagen,Golf,2011,290829,Dizel,Manuel,1.6,204,519000.0
+Fiat,500,2020,279282,Benzin,Manuel,2.0,162,454000.0
+Toyota,Yaris,2015,7232,Dizel,Manuel,2.2,86,525000.0
+Audi,A3,2012,183873,LPG,Manuel,1.8,198,598000.0
+Volkswagen,Passat,2013,225551,LPG,Manuel,2.0,133,540000.0
+Volkswagen,Polo,2014,163870,Benzin,Otomatik,1.0,115,491000.0
+Mercedes,E Serisi,2016,84153,Dizel,Otomatik,2.0,155,719000.0
+Fiat,Doblo,2019,153237,Dizel,Otomatik,1.6,206,448000.0
+Audi,A4,2011,292717,Dizel,Otomatik,1.8,227,590000.0
+Hyundai,Tucson,2013,42248,Benzin,Manuel,2.2,182,444000.0
+Fiat,500,2010,298902,LPG,Otomatik,1.8,135,314000.0
+Fiat,Egea,2013,238446,Benzin,Otomatik,1.4,153,344000.0
+Mercedes,A Serisi,2024,69992,LPG,Manuel,2.2,85,853000.0
+Honda,CR-V,2011,7487,Dizel,Manuel,2.0,99,456000.0
+Mercedes,E Serisi,2023,126057,LPG,Manuel,1.2,95,765000.0
+Audi,Q5,2021,52980,LPG,Manuel,1.4,78,678000.0
+Toyota,Yaris,2024,10871,Benzin,Otomatik,1.2,249,708000.0
+Hyundai,i10,2021,258621,Dizel,Manuel,1.2,240,524000.0
+Volkswagen,Passat,2022,103515,LPG,Manuel,1.0,221,702000.0
+Volkswagen,Polo,2013,267166,LPG,Manuel,1.0,152,489000.0
+Renault,Clio,2019,197612,Benzin,Otomatik,1.0,163,456000.0
+Mercedes,C Serisi,2021,259807,LPG,Otomatik,2.2,183,845000.0
+Renault,Clio,2018,210220,Benzin,Manuel,2.2,209,517000.0
+Renault,Kadjar,2020,242939,Dizel,Otomatik,2.0,115,491000.0
+Fiat,Egea,2018,125786,Dizel,Manuel,1.6,132,408000.0
+Ford,Fiesta,2022,84093,Benzin,Manuel,1.0,195,573000.0
+Fiat,Egea,2011,162589,Dizel,Otomatik,2.2,129,345000.0
+BMW,X5,2020,279783,Benzin,Manuel,1.0,151,716000.0
+Fiat,Doblo,2015,154360,Benzin,Manuel,1.0,102,335000.0
+Hyundai,Tucson,2019,265910,Benzin,Manuel,1.0,82,416000.0
+Audi,A3,2019,121059,Benzin,Otomatik,1.0,112,630000.0
+Toyota,RAV4,2015,38579,Dizel,Manuel,1.2,183,522000.0
+Toyota,Yaris,2024,118204,LPG,Otomatik,1.0,91,605000.0
+Ford,Fiesta,2017,173230,Benzin,Otomatik,1.6,170,511000.0
+Honda,CR-V,2024,59198,Dizel,Otomatik,1.6,192,696000.0
+Mercedes,C Serisi,2020,174435,LPG,Manuel,1.0,189,750000.0
+Ford,Kuga,2017,143563,Dizel,Manuel,1.0,120,458000.0
+Audi,A3,2017,217311,Benzin,Manuel,1.2,154,625000.0
+Toyota,Yaris,2014,153258,Benzin,Manuel,1.0,157,474000.0
+Renault,Kadjar,2010,136509,Benzin,Otomatik,1.8,218,398000.0
+Fiat,Doblo,2012,17407,Benzin,Otomatik,1.0,84,297000.0
+Hyundai,Tucson,2014,288165,Dizel,Otomatik,1.6,147,404000.0
+Fiat,500,2017,87658,LPG,Manuel,2.0,174,430000.0
+Volkswagen,Golf,2010,214545,Benzin,Otomatik,1.2,233,499000.0
+Renault,Kadjar,2016,190745,LPG,Manuel,1.2,201,442000.0
+Audi,A3,2017,201159,Benzin,Manuel,1.8,147,661000.0
+Honda,City,2015,283379,Benzin,Manuel,2.2,158,550000.0
+Renault,Megane,2019,219891,Dizel,Manuel,1.8,117,470000.0
+Renault,Clio,2021,5625,Dizel,Manuel,2.0,86,502000.0
+Ford,Fiesta,2022,86163,LPG,Otomatik,1.2,215,593000.0
+Hyundai,i20,2013,107421,LPG,Manuel,1.4,155,393000.0
+Mercedes,E Serisi,2020,60304,Benzin,Manuel,1.6,166,784000.0
+Renault,Megane,2021,74104,Dizel,Otomatik,1.6,129,500000.0
+Toyota,RAV4,2023,22081,LPG,Otomatik,1.8,191,692000.0
+Hyundai,i10,2013,120941,LPG,Manuel,2.2,168,435000.0
+Fiat,500,2020,80894,Dizel,Manuel,1.4,195,451000.0
+Renault,Megane,2013,61814,Benzin,Otomatik,1.8,164,418000.0
+Mercedes,E Serisi,2012,238,Benzin,Otomatik,2.2,215,696000.0
+BMW,5 Serisi,2021,47198,Dizel,Otomatik,2.2,203,874000.0
+Hyundai,i20,2014,255577,Dizel,Manuel,1.2,191,407000.0
+Honda,CR-V,2022,230212,Benzin,Otomatik,1.4,204,650000.0
+Fiat,500,2022,144080,Benzin,Manuel,1.6,180,474000.0
+Audi,Q5,2022,30141,LPG,Manuel,1.6,110,733000.0
+Renault,Megane,2024,256825,Benzin,Manuel,1.6,162,547000.0
+Hyundai,i20,2018,179484,Dizel,Otomatik,1.6,246,508000.0
+Honda,CR-V,2010,151466,Benzin,Manuel,1.0,152,405000.0
+Ford,Fiesta,2016,263765,Benzin,Manuel,1.8,205,519000.0
+Hyundai,i20,2016,210636,Dizel,Otomatik,1.0,175,420000.0
+Volkswagen,Golf,2020,47344,LPG,Otomatik,2.0,153,689000.0
+Honda,City,2016,245382,LPG,Otomatik,1.0,191,521000.0
+Honda,Civic,2019,222643,Dizel,Otomatik,2.0,169,614000.0
+Volkswagen,Polo,2024,151104,Benzin,Otomatik,1.6,244,785000.0
+Honda,CR-V,2021,14132,Dizel,Otomatik,1.6,193,650000.0
+BMW,X5,2010,58448,Benzin,Otomatik,1.8,189,604000.0
+Renault,Clio,2020,47560,LPG,Otomatik,2.2,232,561000.0
+Honda,City,2023,136453,Benzin,Manuel,1.4,184,660000.0
+Toyota,Yaris,2020,52146,Dizel,Otomatik,1.4,158,601000.0
+Renault,Kadjar,2020,250505,Dizel,Manuel,1.4,196,500000.0
+Volkswagen,Polo,2021,174056,Dizel,Manuel,1.6,94,640000.0
+Fiat,500,2014,106791,LPG,Otomatik,1.8,80,348000.0
+Mercedes,E Serisi,2011,86868,Dizel,Manuel,1.4,226,621000.0
+Renault,Kadjar,2014,93213,Benzin,Otomatik,2.0,194,452000.0
+Hyundai,i20,2023,295107,Dizel,Manuel,1.4,151,518000.0
+Renault,Megane,2014,236862,Benzin,Manuel,1.8,125,406000.0
+Toyota,RAV4,2020,221307,LPG,Manuel,2.0,187,641000.0
+Hyundai,i20,2022,33725,Dizel,Otomatik,2.2,181,566000.0
+Toyota,Yaris,2023,77360,Dizel,Manuel,1.6,172,668000.0
+Renault,Megane,2015,160667,Benzin,Manuel,1.0,125,387000.0
+Honda,City,2019,102194,Benzin,Otomatik,1.8,107,576000.0
+Volkswagen,Passat,2024,67554,Benzin,Manuel,1.8,203,778000.0
+Mercedes,C Serisi,2013,120540,LPG,Otomatik,2.2,132,651000.0
+Fiat,Doblo,2012,174614,Dizel,Otomatik,1.8,124,339000.0
+Audi,Q5,2024,228999,LPG,Otomatik,1.8,164,807000.0
+Audi,A4,2015,4355,LPG,Manuel,1.2,164,607000.0
+Ford,Fiesta,2013,106857,LPG,Manuel,1.2,115,407000.0
+Hyundai,i20,2021,65517,LPG,Manuel,2.2,246,580000.0
+Volkswagen,Golf,2019,292423,LPG,Manuel,1.0,87,557000.0
+Ford,Focus,2018,158080,Benzin,Manuel,2.2,108,526000.0
+Fiat,Doblo,2017,293103,Benzin,Manuel,1.2,223,409000.0
+Audi,A3,2011,193797,LPG,Manuel,2.2,238,630000.0
+Toyota,Yaris,2024,87412,Benzin,Manuel,1.4,167,670000.0
+Ford,Focus,2014,221740,Dizel,Otomatik,2.2,183,500000.0
+Renault,Clio,2024,38049,LPG,Manuel,1.6,173,562000.0
+BMW,5 Serisi,2024,222762,LPG,Manuel,2.0,130,859000.0
+Renault,Kadjar,2017,54869,Benzin,Otomatik,1.0,237,469000.0
+BMW,3 Serisi,2018,71259,LPG,Otomatik,2.0,166,769000.0
+Audi,A3,2016,176618,Benzin,Otomatik,1.0,83,549000.0
+Renault,Megane,2017,79876,Dizel,Manuel,1.6,150,455000.0
+Fiat,500,2020,168589,LPG,Otomatik,1.8,189,461000.0
+Volkswagen,Golf,2016,124300,LPG,Otomatik,1.0,138,543000.0
+Mercedes,E Serisi,2022,67929,Benzin,Otomatik,1.0,105,741000.0
+BMW,X5,2022,132483,LPG,Otomatik,2.2,151,852000.0
+Toyota,Yaris,2024,35962,Benzin,Manuel,2.2,114,688000.0
+Volkswagen,Golf,2021,226278,Dizel,Otomatik,1.8,96,650000.0
+Fiat,Egea,2022,268284,Dizel,Otomatik,1.2,207,464000.0
+Renault,Kadjar,2014,159739,LPG,Manuel,2.2,215,468000.0
+Mercedes,E Serisi,2023,24589,Benzin,Manuel,1.6,234,897000.0
+BMW,3 Serisi,2016,57157,Dizel,Manuel,2.0,85,671000.0
+Renault,Kadjar,2019,161263,Dizel,Manuel,1.2,179,474000.0
+Toyota,RAV4,2024,283523,Benzin,Manuel,1.4,222,690000.0
+Toyota,Yaris,2016,237900,LPG,Manuel,1.2,215,545000.0
+Renault,Megane,2021,102274,Dizel,Manuel,1.0,133,474000.0
+Ford,Fiesta,2024,49534,Dizel,Otomatik,1.6,239,657000.0
+Toyota,RAV4,2014,152294,Benzin,Otomatik,1.6,146,501000.0
+Ford,Fiesta,2015,25058,Benzin,Otomatik,2.2,245,556000.0
+Toyota,Yaris,2021,63797,Benzin,Manuel,2.0,153,647000.0
+Renault,Clio,2022,222883,Dizel,Manuel,1.8,219,557000.0
+BMW,5 Serisi,2024,93707,LPG,Manuel,1.4,167,852000.0
+Fiat,Doblo,2024,137474,Benzin,Manuel,2.0,136,497000.0
+Fiat,Egea,2020,279425,Benzin,Otomatik,2.2,141,453000.0
+Toyota,RAV4,2012,123587,Benzin,Otomatik,1.8,108,460000.0
+Volkswagen,Golf,2015,56728,Benzin,Manuel,1.8,133,574000.0
+Hyundai,i20,2016,135630,LPG,Manuel,2.2,109,448000.0
+Honda,Civic,2022,139684,LPG,Otomatik,1.0,190,625000.0
+Fiat,500,2017,69911,Dizel,Manuel,1.8,167,420000.0
+BMW,X5,2018,278771,Dizel,Manuel,1.8,169,743000.0
+Ford,Kuga,2020,49758,Benzin,Manuel,1.8,193,584000.0
+Volkswagen,Polo,2022,64501,Benzin,Manuel,1.0,198,691000.0
+Volkswagen,Polo,2018,259134,Dizel,Manuel,1.4,141,597000.0
+Volkswagen,Passat,2010,14278,Dizel,Otomatik,2.0,177,525000.0
+Honda,CR-V,2023,369,Benzin,Otomatik,2.0,164,690000.0
+Hyundai,Tucson,2023,281275,Benzin,Otomatik,1.8,178,549000.0
+Hyundai,i10,2018,166916,LPG,Manuel,1.4,126,445000.0
+Toyota,Yaris,2016,290072,LPG,Manuel,1.6,157,532000.0
+Hyundai,i10,2018,237951,LPG,Manuel,1.0,235,473000.0
+BMW,X5,2015,127047,Dizel,Otomatik,1.6,123,644000.0
+Honda,Civic,2023,39027,LPG,Otomatik,2.0,100,652000.0
+Ford,Fiesta,2019,179423,Benzin,Otomatik,2.0,232,592000.0
+Fiat,Doblo,2021,54928,LPG,Otomatik,1.4,234,479000.0
+Audi,A4,2021,204866,Dizel,Otomatik,1.4,90,676000.0
+Volkswagen,Golf,2012,64070,LPG,Manuel,1.6,134,509000.0
+Volkswagen,Polo,2020,71479,Dizel,Otomatik,2.2,131,686000.0
+Ford,Focus,2021,45514,Dizel,Manuel,1.0,90,508000.0
+Volkswagen,Passat,2016,182128,Benzin,Otomatik,2.2,145,616000.0
+Fiat,Egea,2014,107317,Dizel,Otomatik,2.2,225,422000.0
+Toyota,RAV4,2010,127264,Dizel,Manuel,1.4,204,457000.0
+Mercedes,E Serisi,2016,224035,Dizel,Otomatik,1.0,230,691000.0
+Fiat,Doblo,2019,46344,Benzin,Manuel,2.2,126,445000.0
+Renault,Kadjar,2010,273624,Dizel,Manuel,1.8,99,338000.0
+Mercedes,E Serisi,2014,37256,LPG,Otomatik,2.2,194,721000.0
+Toyota,RAV4,2019,268644,Dizel,Otomatik,1.2,183,575000.0
+Audi,A3,2024,147091,Dizel,Otomatik,1.0,126,735000.0
+Toyota,Corolla,2024,126568,Benzin,Otomatik,1.6,153,671000.0
+Renault,Megane,2021,134293,Benzin,Otomatik,1.8,137,510000.0
+Audi,A4,2021,42150,LPG,Otomatik,1.2,105,683000.0
+Honda,Civic,2013,201197,Dizel,Manuel,1.2,101,435000.0
+Hyundai,Tucson,2015,113443,Benzin,Otomatik,1.2,185,425000.0
+Fiat,Doblo,2010,65421,Benzin,Otomatik,1.4,203,335000.0
+Hyundai,Tucson,2021,147626,LPG,Manuel,1.8,176,527000.0
+Renault,Clio,2023,31693,Benzin,Manuel,1.0,128,502000.0
+BMW,3 Serisi,2013,43834,LPG,Otomatik,1.0,92,544000.0
+Toyota,Corolla,2010,16062,LPG,Manuel,2.2,76,437000.0
+Toyota,RAV4,2018,175796,Benzin,Otomatik,1.0,103,509000.0
+Audi,A4,2013,205205,Benzin,Otomatik,1.0,86,491000.0
+Renault,Megane,2014,52433,LPG,Otomatik,1.4,219,438000.0
+Renault,Kadjar,2012,293282,Benzin,Manuel,1.6,227,413000.0
+Renault,Megane,2022,63274,Benzin,Manuel,2.0,114,525000.0
+Ford,Kuga,2010,154877,Benzin,Manuel,1.8,224,444000.0
+Toyota,Yaris,2024,230786,LPG,Manuel,1.4,139,647000.0
+Ford,Kuga,2021,264069,LPG,Otomatik,1.8,206,595000.0
+Toyota,Yaris,2014,76470,Dizel,Manuel,1.6,175,521000.0
+Fiat,Doblo,2018,26803,LPG,Manuel,1.2,131,395000.0
+Honda,City,2020,277627,Dizel,Otomatik,1.6,179,611000.0
+Fiat,Doblo,2016,194296,Dizel,Manuel,1.0,127,355000.0
+Ford,Focus,2018,32855,LPG,Otomatik,2.2,108,532000.0
+Hyundai,i10,2018,14542,Benzin,Otomatik,1.8,76,448000.0
+Renault,Kadjar,2020,39010,Dizel,Otomatik,2.2,87,496000.0
+Toyota,Corolla,2013,271233,LPG,Manuel,1.2,225,499000.0
+Ford,Fiesta,2019,233976,Dizel,Manuel,2.0,239,593000.0
+Renault,Kadjar,2018,208612,LPG,Otomatik,1.4,248,498000.0
+Volkswagen,Golf,2018,160216,Dizel,Otomatik,1.2,144,593000.0
+Fiat,Egea,2015,209653,Benzin,Manuel,1.2,240,396000.0
+Volkswagen,Passat,2023,211149,LPG,Otomatik,2.0,138,724000.0
+Volkswagen,Passat,2020,60509,LPG,Otomatik,1.8,107,649000.0
+Renault,Megane,2018,176095,LPG,Otomatik,1.2,160,451000.0
+Volkswagen,Golf,2013,54062,Benzin,Manuel,1.6,166,546000.0
+Ford,Focus,2010,294970,Dizel,Manuel,1.2,207,399000.0
+Hyundai,i20,2014,56068,Benzin,Otomatik,1.4,162,412000.0
+Ford,Fiesta,2019,107168,Dizel,Manuel,2.2,138,559000.0
+Toyota,Yaris,2010,277800,LPG,Otomatik,2.2,195,488000.0
+Volkswagen,Passat,2020,57962,LPG,Otomatik,1.0,132,616000.0
+Renault,Megane,2011,33561,LPG,Otomatik,2.0,182,409000.0
+BMW,X5,2015,253722,Dizel,Manuel,1.6,203,691000.0
+Hyundai,Tucson,2010,172721,LPG,Otomatik,1.8,246,409000.0
+Renault,Clio,2022,194255,LPG,Manuel,1.0,75,457000.0
+Audi,A4,2016,198323,LPG,Manuel,1.2,178,623000.0
+Honda,CR-V,2012,107594,LPG,Otomatik,1.8,129,472000.0
+Toyota,Corolla,2014,131212,LPG,Otomatik,1.6,152,505000.0
+Honda,Civic,2021,130481,LPG,Otomatik,2.2,159,658000.0
+Renault,Kadjar,2013,183382,Benzin,Otomatik,1.8,179,419000.0
+Mercedes,A Serisi,2016,33215,Benzin,Otomatik,1.4,93,637000.0
+Honda,CR-V,2012,69834,Dizel,Otomatik,2.0,167,506000.0
+Renault,Kadjar,2015,288144,LPG,Otomatik,2.2,175,457000.0
+BMW,X5,2024,281813,Benzin,Manuel,2.0,85,824000.0
+Audi,A3,2017,86553,Dizel,Manuel,2.2,96,661000.0
+Hyundai,i10,2012,292197,LPG,Manuel,1.0,192,370000.0
+Audi,A4,2017,276500,Benzin,Manuel,2.2,97,650000.0
+Toyota,Yaris,2016,274083,LPG,Otomatik,1.4,77,478000.0
+Hyundai,i20,2022,212315,Benzin,Otomatik,2.2,246,587000.0
+Volkswagen,Golf,2021,247184,Dizel,Otomatik,1.4,148,656000.0
+Renault,Clio,2023,251124,Dizel,Manuel,1.2,83,481000.0
+Honda,City,2021,89034,Dizel,Manuel,1.0,177,604000.0
+Ford,Kuga,2024,105211,LPG,Manuel,2.0,118,614000.0
+Audi,A4,2011,28308,LPG,Manuel,2.2,144,579000.0
+Hyundai,Tucson,2024,74736,LPG,Otomatik,1.2,89,505000.0
+Hyundai,i20,2011,271537,Benzin,Manuel,2.0,159,388000.0
+Hyundai,i20,2015,228599,Benzin,Manuel,1.6,145,419000.0
+Mercedes,C Serisi,2017,144209,Benzin,Otomatik,2.0,133,720000.0
+Fiat,Egea,2016,74088,Benzin,Otomatik,1.2,79,349000.0
+BMW,X5,2024,222418,LPG,Manuel,1.0,194,834000.0
+Fiat,Doblo,2014,275642,Dizel,Otomatik,1.0,239,373000.0
+Toyota,RAV4,2019,171758,Dizel,Manuel,2.0,109,584000.0
+Hyundai,i20,2021,78207,Dizel,Otomatik,1.8,129,509000.0
+Honda,CR-V,2014,17221,Dizel,Otomatik,1.4,208,531000.0
+Ford,Kuga,2018,159400,Benzin,Manuel,1.8,146,525000.0
+Volkswagen,Golf,2017,198252,LPG,Otomatik,2.0,210,660000.0
+Fiat,500,2023,42558,Benzin,Otomatik,1.0,239,490000.0
+BMW,5 Serisi,2019,110714,Dizel,Manuel,1.8,105,731000.0
+Mercedes,C Serisi,2020,27123,Dizel,Manuel,1.0,120,712000.0
+Toyota,Yaris,2017,133905,Benzin,Otomatik,1.6,228,597000.0
+Toyota,Yaris,2010,45021,LPG,Manuel,1.6,107,419000.0
+Mercedes,A Serisi,2012,206895,LPG,Otomatik,1.8,241,672000.0
+Fiat,Egea,2013,37547,LPG,Manuel,1.0,149,334000.0
+Ford,Fiesta,2013,111828,LPG,Manuel,1.2,133,416000.0
+Fiat,Doblo,2018,43661,LPG,Otomatik,1.0,80,366000.0
+Ford,Focus,2022,213316,Dizel,Otomatik,1.8,248,633000.0
+Hyundai,i20,2023,43740,Dizel,Otomatik,2.0,216,586000.0
+Toyota,Yaris,2016,253397,Benzin,Otomatik,1.8,176,556000.0
+BMW,3 Serisi,2015,464,Benzin,Otomatik,1.6,165,682000.0
+Mercedes,A Serisi,2010,243857,Benzin,Manuel,1.2,194,553000.0
+Fiat,Doblo,2023,199982,Benzin,Otomatik,2.0,246,526000.0
+Ford,Fiesta,2022,160249,Benzin,Otomatik,1.0,79,511000.0
+BMW,X5,2023,142544,Dizel,Otomatik,1.0,120,767000.0
+Hyundai,Tucson,2016,123915,LPG,Otomatik,2.2,159,471000.0
+Honda,CR-V,2011,28423,LPG,Otomatik,1.4,97,420000.0
+Fiat,Egea,2018,142354,Benzin,Otomatik,2.2,232,471000.0
+BMW,3 Serisi,2016,58064,LPG,Otomatik,1.0,107,617000.0
+Volkswagen,Golf,2022,47761,Dizel,Manuel,2.2,106,709000.0
+Honda,CR-V,2016,283983,LPG,Otomatik,1.6,78,489000.0
+Ford,Kuga,2020,144026,LPG,Otomatik,1.6,105,525000.0
+Mercedes,C Serisi,2014,20422,Benzin,Manuel,1.4,224,687000.0
+Fiat,Egea,2014,203809,Benzin,Manuel,2.2,93,365000.0
+Hyundai,i10,2023,167602,Dizel,Manuel,1.8,164,548000.0
+Fiat,Doblo,2016,277730,Dizel,Otomatik,1.0,102,342000.0
+BMW,3 Serisi,2010,46470,Dizel,Manuel,1.8,230,634000.0
+Toyota,Corolla,2015,157286,Dizel,Manuel,2.2,203,581000.0
+Hyundai,Tucson,2018,219601,Benzin,Manuel,1.2,86,416000.0
+Hyundai,Tucson,2021,226228,Dizel,Otomatik,2.2,145,528000.0
+BMW,X5,2022,264822,Benzin,Manuel,1.8,215,860000.0
+BMW,X5,2015,288061,LPG,Otomatik,2.0,95,641000.0
+Mercedes,A Serisi,2023,257107,LPG,Otomatik,2.2,86,819000.0
+Ford,Focus,2018,18055,LPG,Otomatik,1.6,223,561000.0
+Toyota,RAV4,2019,239270,Benzin,Manuel,1.0,246,601000.0
+Volkswagen,Polo,2012,239799,Benzin,Otomatik,1.2,153,485000.0
+Honda,City,2018,95310,Dizel,Otomatik,1.8,120,567000.0
+Hyundai,i10,2020,294719,Benzin,Otomatik,2.0,166,511000.0
+Fiat,Doblo,2022,85056,Dizel,Otomatik,1.0,115,427000.0
+Ford,Fiesta,2023,259567,Dizel,Otomatik,2.2,189,637000.0
+Volkswagen,Polo,2018,171692,LPG,Otomatik,1.2,107,570000.0
+Volkswagen,Passat,2021,138348,Dizel,Manuel,1.4,184,684000.0
+Hyundai,i10,2016,16668,Benzin,Otomatik,1.4,230,472000.0
+Renault,Kadjar,2024,108075,Benzin,Manuel,1.0,76,488000.0
+Hyundai,i10,2015,26060,LPG,Manuel,2.0,126,438000.0
+Toyota,Corolla,2011,56883,Dizel,Manuel,1.8,102,443000.0
+Toyota,Yaris,2019,193788,Benzin,Otomatik,1.8,186,614000.0
+Renault,Megane,2010,71803,Dizel,Manuel,1.4,90,325000.0
+Toyota,Corolla,2021,104434,LPG,Otomatik,1.6,156,625000.0
+Hyundai,i10,2022,198997,Benzin,Manuel,1.2,215,529000.0
+BMW,X5,2015,233813,Benzin,Otomatik,1.0,142,608000.0
+Renault,Clio,2023,69719,Dizel,Otomatik,1.8,146,544000.0
+Hyundai,i10,2023,243534,Benzin,Manuel,2.2,186,572000.0
+Mercedes,A Serisi,2018,52322,LPG,Otomatik,1.0,190,717000.0
+Fiat,Egea,2019,192985,LPG,Otomatik,1.4,106,399000.0
+BMW,X5,2014,279893,Benzin,Manuel,1.4,104,585000.0
+Fiat,Doblo,2015,46114,LPG,Manuel,1.4,118,361000.0
+Toyota,Corolla,2010,194991,Dizel,Otomatik,1.0,197,428000.0
+Fiat,500,2011,206104,Dizel,Otomatik,1.4,223,349000.0
+Renault,Kadjar,2017,165236,Benzin,Manuel,1.4,219,474000.0
+Hyundai,Tucson,2023,179209,Dizel,Otomatik,2.2,178,572000.0
+Mercedes,C Serisi,2010,67627,Dizel,Otomatik,2.0,143,585000.0
+Ford,Kuga,2015,299949,LPG,Otomatik,1.4,221,491000.0
+Audi,A4,2018,130083,Benzin,Manuel,2.0,108,673000.0
+Volkswagen,Golf,2023,295276,Dizel,Manuel,1.4,160,696000.0
+Honda,Civic,2018,50349,LPG,Manuel,1.2,160,558000.0
+Renault,Megane,2012,220865,Dizel,Manuel,2.2,103,387000.0
+Renault,Clio,2012,97933,Benzin,Manuel,1.8,194,416000.0
+BMW,3 Serisi,2022,52697,LPG,Otomatik,1.0,199,808000.0
+Honda,CR-V,2017,136938,Dizel,Manuel,2.2,196,612000.0
+Hyundai,Tucson,2016,32872,LPG,Otomatik,1.2,122,413000.0
+BMW,3 Serisi,2018,283637,Dizel,Manuel,1.0,100,638000.0
+Audi,A4,2012,2646,Dizel,Otomatik,1.2,167,550000.0
+BMW,5 Serisi,2018,64580,Dizel,Otomatik,2.0,242,823000.0
+Audi,A4,2017,212591,LPG,Otomatik,1.8,233,716000.0
+Renault,Megane,2014,48288,Dizel,Manuel,1.2,220,430000.0
+Volkswagen,Polo,2020,22118,LPG,Manuel,1.4,202,684000.0
+Renault,Clio,2020,99529,Dizel,Otomatik,1.2,224,510000.0
+BMW,3 Serisi,2013,232591,Benzin,Otomatik,2.0,108,612000.0
+Fiat,Doblo,2017,169838,Dizel,Otomatik,1.6,97,380000.0
+Mercedes,A Serisi,2010,205653,Dizel,Manuel,1.8,121,546000.0
+Volkswagen,Golf,2016,153991,Benzin,Manuel,1.6,217,625000.0
+Audi,A4,2013,107413,Dizel,Otomatik,2.0,164,613000.0
+Hyundai,i20,2012,65961,Benzin,Manuel,1.6,242,430000.0
+Mercedes,E Serisi,2021,191948,Dizel,Otomatik,1.2,178,776000.0
+Honda,CR-V,2012,128987,Benzin,Manuel,1.6,130,460000.0
+Ford,Focus,2011,228689,Benzin,Otomatik,1.2,78,353000.0
+Renault,Kadjar,2013,25042,Benzin,Manuel,1.2,219,417000.0
+Honda,City,2014,139030,Dizel,Manuel,1.4,81,455000.0
+Renault,Megane,2012,18199,Benzin,Otomatik,1.6,192,410000.0
+Toyota,Yaris,2011,184526,Benzin,Manuel,1.6,144,449000.0
+Volkswagen,Polo,2014,35212,LPG,Otomatik,1.4,213,582000.0
+Toyota,Yaris,2018,189462,Dizel,Manuel,1.2,92,513000.0
+Honda,Civic,2021,164677,LPG,Manuel,1.0,100,557000.0
+Ford,Kuga,2020,163372,LPG,Otomatik,2.0,229,606000.0
+Honda,Civic,2023,199080,LPG,Manuel,2.2,96,652000.0
+Honda,City,2017,214932,Benzin,Manuel,1.4,96,508000.0
+Toyota,Yaris,2022,49559,Dizel,Otomatik,1.0,76,567000.0
+Audi,A3,2016,152194,Dizel,Manuel,1.4,204,656000.0
+Toyota,Yaris,2013,261074,LPG,Otomatik,2.0,112,482000.0
+Honda,CR-V,2023,161973,Benzin,Otomatik,2.0,207,704000.0
+Honda,City,2017,227334,LPG,Manuel,1.0,129,504000.0
+Fiat,Egea,2016,241609,Benzin,Otomatik,1.2,203,392000.0
+Hyundai,i10,2018,53705,LPG,Otomatik,1.6,207,496000.0
+Hyundai,i20,2010,79482,Benzin,Manuel,2.2,211,415000.0
+Honda,CR-V,2014,264393,Dizel,Otomatik,1.0,142,460000.0
+Audi,A4,2022,197477,Dizel,Otomatik,1.6,174,763000.0
+Toyota,Yaris,2021,90989,Benzin,Otomatik,1.6,157,626000.0
+Toyota,Yaris,2024,82226,Dizel,Manuel,2.2,201,733000.0
+Mercedes,E Serisi,2022,85411,Benzin,Manuel,1.6,149,812000.0
+Volkswagen,Passat,2010,43553,LPG,Manuel,2.0,166,517000.0
+Audi,A4,2010,281748,LPG,Manuel,1.4,225,544000.0
+Ford,Kuga,2018,12087,Benzin,Manuel,1.6,127,513000.0
+Mercedes,C Serisi,2021,149013,LPG,Otomatik,1.4,187,799000.0
+Honda,Civic,2022,66347,LPG,Otomatik,1.0,161,613000.0
+Volkswagen,Golf,2013,158244,Dizel,Manuel,1.6,245,588000.0
+Ford,Fiesta,2023,119919,Benzin,Manuel,1.4,180,599000.0
+Renault,Kadjar,2017,88766,Dizel,Manuel,1.0,187,445000.0
+Fiat,500,2010,211394,Benzin,Otomatik,1.2,139,295000.0
+Renault,Megane,2010,113971,Dizel,Otomatik,1.2,120,328000.0
+Toyota,Corolla,2011,240844,Dizel,Otomatik,2.2,115,463000.0
+Hyundai,Tucson,2023,264961,LPG,Manuel,1.8,213,565000.0
+Toyota,Yaris,2020,135352,LPG,Manuel,1.6,168,613000.0
+Renault,Clio,2011,220840,Dizel,Otomatik,2.0,160,391000.0
+BMW,X5,2018,289111,Benzin,Otomatik,1.6,187,741000.0
+Mercedes,E Serisi,2021,88332,Benzin,Manuel,2.2,233,892000.0
+Mercedes,E Serisi,2020,155025,LPG,Manuel,1.2,175,756000.0
+Honda,City,2013,2845,Benzin,Manuel,1.6,136,487000.0
+Mercedes,C Serisi,2016,281986,Benzin,Manuel,1.0,146,628000.0
+Audi,Q5,2018,157384,Benzin,Manuel,2.0,236,754000.0
+Hyundai,i20,2018,297780,LPG,Otomatik,2.2,105,466000.0
+Renault,Clio,2011,214901,LPG,Otomatik,1.6,187,385000.0
+Renault,Kadjar,2012,190712,Dizel,Otomatik,2.0,216,431000.0
+Fiat,Doblo,2016,288552,Dizel,Manuel,1.4,180,388000.0
+Honda,City,2011,224976,Dizel,Otomatik,2.0,199,499000.0
+Renault,Clio,2018,238886,Dizel,Manuel,1.4,172,463000.0
+Ford,Focus,2010,173044,Benzin,Otomatik,1.4,238,430000.0
+Hyundai,i20,2011,75579,LPG,Manuel,1.8,129,374000.0
+Hyundai,Tucson,2016,154524,LPG,Manuel,1.6,211,466000.0
+Audi,Q5,2020,244037,LPG,Otomatik,2.0,220,777000.0
+Toyota,Yaris,2020,258199,Benzin,Manuel,1.8,132,597000.0
+Hyundai,Tucson,2013,183765,Dizel,Manuel,1.2,244,421000.0
+Audi,A4,2014,258223,Dizel,Otomatik,1.0,105,519000.0
+Toyota,Corolla,2019,210953,Benzin,Otomatik,1.0,85,514000.0
+Ford,Focus,2022,113348,Benzin,Manuel,2.0,131,590000.0
+Volkswagen,Polo,2019,181312,Benzin,Manuel,1.0,230,649000.0
+Hyundai,Tucson,2018,140573,Benzin,Manuel,1.6,138,461000.0
+Volkswagen,Golf,2021,293383,Dizel,Otomatik,1.0,196,658000.0
+Fiat,Doblo,2023,143647,Dizel,Otomatik,1.6,240,510000.0
+Hyundai,Tucson,2020,107019,Benzin,Manuel,2.0,181,527000.0
+Volkswagen,Polo,2014,36509,Benzin,Otomatik,1.2,244,588000.0
+Fiat,Doblo,2024,153533,Benzin,Manuel,1.2,100,450000.0
+Toyota,Corolla,2011,116307,Benzin,Manuel,1.4,86,409000.0
+Volkswagen,Polo,2011,157853,Dizel,Manuel,1.8,158,511000.0
+BMW,X5,2015,16136,Benzin,Otomatik,1.0,197,662000.0
+Ford,Fiesta,2011,67944,LPG,Manuel,2.2,118,431000.0
+Hyundai,i20,2021,271271,LPG,Manuel,1.2,104,462000.0
+Honda,City,2018,207633,Benzin,Manuel,1.8,119,560000.0
+Audi,A3,2012,86831,Dizel,Manuel,2.2,127,584000.0
+Hyundai,i10,2021,148371,Benzin,Otomatik,1.4,118,483000.0
+Honda,Civic,2018,168627,Benzin,Manuel,1.6,187,589000.0
+Volkswagen,Passat,2017,188817,LPG,Manuel,1.2,117,557000.0
+Hyundai,i20,2011,9973,Benzin,Manuel,1.0,154,352000.0
+Hyundai,i10,2023,136266,Dizel,Otomatik,1.2,211,543000.0
+Volkswagen,Golf,2014,121716,Dizel,Manuel,1.4,185,560000.0
+Honda,CR-V,2019,202653,Benzin,Otomatik,2.2,234,662000.0
+Fiat,500,2012,141174,Benzin,Otomatik,2.0,111,343000.0
+Volkswagen,Golf,2017,229302,Dizel,Otomatik,1.6,237,650000.0
+Toyota,RAV4,2010,108715,Benzin,Otomatik,1.2,215,453000.0
+Ford,Fiesta,2017,157185,LPG,Manuel,1.2,182,498000.0
+Toyota,RAV4,2013,71641,Benzin,Otomatik,1.4,109,458000.0
+Audi,A3,2023,107849,Benzin,Manuel,1.0,90,695000.0
+BMW,X5,2021,115175,LPG,Otomatik,1.4,108,747000.0
+Renault,Clio,2010,255904,Benzin,Manuel,1.8,116,347000.0
+Mercedes,E Serisi,2024,291159,Dizel,Otomatik,1.4,103,794000.0
+BMW,3 Serisi,2011,205274,Dizel,Otomatik,1.2,102,512000.0
+Audi,A4,2017,292803,LPG,Manuel,2.0,109,643000.0
+Toyota,Yaris,2018,213710,LPG,Otomatik,1.8,121,561000.0
+Audi,A3,2017,293802,Benzin,Manuel,2.0,111,645000.0
+Toyota,RAV4,2019,53963,LPG,Otomatik,1.0,103,532000.0
+Toyota,RAV4,2024,58301,Benzin,Manuel,1.0,120,624000.0
+Volkswagen,Passat,2021,298759,LPG,Manuel,2.2,173,716000.0
+BMW,3 Serisi,2017,128067,LPG,Manuel,2.0,246,800000.0
+Fiat,Egea,2021,72283,Dizel,Otomatik,2.0,75,439000.0
+Fiat,500,2018,44133,Dizel,Otomatik,2.0,82,407000.0
+Hyundai,i10,2024,218674,LPG,Manuel,1.4,232,572000.0
+Renault,Megane,2015,247243,Benzin,Otomatik,1.4,123,400000.0
+Ford,Focus,2016,140577,LPG,Manuel,1.6,212,519000.0
+Hyundai,i20,2012,18040,Dizel,Manuel,1.4,214,410000.0
+Hyundai,i20,2015,286473,Dizel,Manuel,1.2,205,426000.0
+Fiat,Egea,2015,37749,LPG,Manuel,1.0,231,391000.0
+Honda,CR-V,2010,108148,Benzin,Otomatik,2.0,99,434000.0
+BMW,X5,2024,277444,Dizel,Otomatik,1.2,174,830000.0
+Mercedes,E Serisi,2024,109906,Dizel,Otomatik,2.0,240,944000.0
+Hyundai,i20,2018,31218,LPG,Otomatik,2.2,140,494000.0
+Volkswagen,Golf,2013,37360,Benzin,Otomatik,2.2,99,543000.0
+Toyota,Corolla,2021,161674,LPG,Manuel,1.0,119,568000.0
+BMW,X5,2012,208653,LPG,Manuel,1.4,101,546000.0
+Hyundai,i10,2018,66701,Benzin,Otomatik,1.2,112,434000.0
+Renault,Kadjar,2022,169625,LPG,Otomatik,2.2,111,528000.0
+Audi,A3,2012,72970,Benzin,Manuel,2.2,127,585000.0
+Volkswagen,Passat,2021,10618,LPG,Manuel,1.6,204,716000.0
+Toyota,Yaris,2015,286464,Benzin,Manuel,1.2,133,481000.0
+BMW,3 Serisi,2024,105793,LPG,Manuel,2.2,175,913000.0
+BMW,5 Serisi,2015,143580,Benzin,Otomatik,2.2,78,654000.0
+Fiat,500,2022,196923,Dizel,Otomatik,1.2,82,417000.0
+Renault,Megane,2020,193812,Dizel,Manuel,1.6,75,457000.0
+Renault,Megane,2023,30094,Benzin,Manuel,1.8,139,543000.0
+Fiat,500,2015,183467,Dizel,Otomatik,2.0,146,391000.0
+Hyundai,i20,2021,205605,Dizel,Otomatik,2.0,132,514000.0
+Toyota,RAV4,2024,257517,Benzin,Manuel,1.2,177,655000.0
+Toyota,Yaris,2011,54452,Benzin,Otomatik,2.0,103,455000.0
+Renault,Clio,2020,294092,LPG,Manuel,2.2,130,504000.0
+Honda,Civic,2020,296698,Dizel,Otomatik,1.2,129,561000.0
+Honda,Civic,2012,183247,LPG,Otomatik,2.2,159,506000.0
+Mercedes,E Serisi,2015,195930,LPG,Otomatik,1.2,185,655000.0
+Audi,A4,2011,85598,LPG,Otomatik,1.8,190,579000.0
+Renault,Megane,2019,148015,LPG,Manuel,1.0,245,495000.0
+Ford,Fiesta,2021,96034,Benzin,Otomatik,1.0,166,543000.0
+Honda,City,2020,47046,Benzin,Manuel,1.8,208,651000.0
+Fiat,Doblo,2010,136296,LPG,Otomatik,1.8,223,356000.0
+Volkswagen,Passat,2010,108612,LPG,Manuel,1.2,219,497000.0
+Hyundai,Tucson,2022,46804,Benzin,Manuel,1.6,137,519000.0
+Toyota,RAV4,2019,272732,LPG,Otomatik,1.0,130,535000.0
+Hyundai,Tucson,2014,271764,Dizel,Otomatik,2.0,152,425000.0
+Audi,A3,2021,270838,Benzin,Manuel,2.2,233,816000.0
+Volkswagen,Passat,2017,90322,Benzin,Manuel,1.4,187,617000.0
+Mercedes,A Serisi,2018,233580,Benzin,Otomatik,1.2,109,662000.0
+Audi,Q5,2012,181087,Benzin,Manuel,2.0,174,595000.0
+BMW,X5,2018,196522,Benzin,Manuel,2.0,94,710000.0
+Ford,Kuga,2017,63529,LPG,Otomatik,1.4,228,536000.0
+Volkswagen,Passat,2017,188434,LPG,Manuel,1.2,213,614000.0
+Renault,Megane,2018,195438,LPG,Manuel,2.2,176,502000.0
+BMW,5 Serisi,2016,233464,Dizel,Manuel,1.0,224,686000.0
+BMW,5 Serisi,2017,2165,Dizel,Manuel,1.4,144,696000.0
+Honda,CR-V,2011,212940,LPG,Manuel,1.0,106,393000.0
+Hyundai,i10,2022,100879,Dizel,Manuel,1.2,222,536000.0
+Hyundai,i10,2013,28055,LPG,Otomatik,1.2,246,429000.0
+Honda,City,2022,105615,Benzin,Otomatik,2.0,234,706000.0
+Toyota,Corolla,2011,74928,LPG,Otomatik,1.4,93,416000.0
+Fiat,Doblo,2021,151515,Dizel,Otomatik,1.4,206,464000.0
+Renault,Clio,2024,251736,Dizel,Otomatik,1.4,200,556000.0
+Honda,Civic,2018,6239,Benzin,Manuel,1.2,135,547000.0
+Renault,Clio,2014,4761,Dizel,Manuel,1.4,118,395000.0
+Renault,Megane,2021,165720,Dizel,Manuel,1.4,143,493000.0
+Hyundai,Tucson,2012,206654,Dizel,Otomatik,1.8,205,416000.0
+BMW,X5,2012,65713,LPG,Manuel,1.4,114,565000.0
+Hyundai,Tucson,2017,220619,Dizel,Manuel,1.0,181,436000.0
+Audi,A4,2019,236322,LPG,Otomatik,2.2,172,740000.0
+Renault,Clio,2020,281939,Dizel,Otomatik,1.8,100,473000.0
+BMW,3 Serisi,2018,92783,LPG,Otomatik,2.0,140,750000.0
+Volkswagen,Polo,2024,189957,Benzin,Otomatik,2.0,157,755000.0
+BMW,X5,2019,88708,Benzin,Otomatik,1.8,168,776000.0
+Audi,Q5,2020,153910,LPG,Manuel,2.0,88,697000.0
+Ford,Fiesta,2013,297962,LPG,Otomatik,1.2,81,381000.0
+BMW,3 Serisi,2022,109214,Benzin,Manuel,1.0,131,756000.0
+Honda,Civic,2019,251769,LPG,Otomatik,1.6,159,585000.0
+Audi,Q5,2015,296262,Benzin,Manuel,2.0,174,646000.0
+Audi,A3,2018,130727,LPG,Manuel,1.6,225,723000.0
+Honda,Civic,2013,70509,Dizel,Manuel,1.6,208,523000.0
+Mercedes,E Serisi,2012,59170,LPG,Otomatik,1.4,214,636000.0
+Ford,Kuga,2017,92209,LPG,Otomatik,2.0,81,491000.0
+Volkswagen,Polo,2019,242042,Dizel,Manuel,2.2,150,669000.0
+BMW,5 Serisi,2020,266009,Dizel,Manuel,2.2,160,807000.0
+Toyota,Yaris,2015,41400,Benzin,Otomatik,1.8,100,509000.0
+Honda,Civic,2013,115641,LPG,Otomatik,1.2,89,433000.0
+Renault,Kadjar,2012,128282,Benzin,Otomatik,2.0,203,428000.0
+Hyundai,i20,2014,55522,Benzin,Otomatik,1.0,169,398000.0
+Ford,Kuga,2017,176296,LPG,Otomatik,1.6,196,524000.0
+Volkswagen,Golf,2021,179955,LPG,Otomatik,1.4,139,655000.0
+Volkswagen,Polo,2014,287280,LPG,Manuel,1.6,204,573000.0
+Mercedes,C Serisi,2019,117033,LPG,Otomatik,1.4,159,740000.0
+Volkswagen,Golf,2015,230358,LPG,Manuel,1.8,115,553000.0
+Audi,Q5,2015,122164,Benzin,Manuel,1.8,130,616000.0
+Volkswagen,Passat,2022,82932,Benzin,Manuel,2.2,92,698000.0
+Honda,CR-V,2015,67237,Dizel,Otomatik,2.2,147,556000.0
+Renault,Megane,2017,54989,Dizel,Manuel,2.0,80,443000.0
+Renault,Megane,2022,217250,Benzin,Manuel,1.8,144,523000.0
+Honda,CR-V,2010,240409,LPG,Manuel,1.8,245,496000.0
+Volkswagen,Passat,2014,217525,Benzin,Manuel,1.0,148,508000.0
+Volkswagen,Passat,2021,182690,Benzin,Manuel,1.6,127,659000.0
+Fiat,Doblo,2023,210064,Benzin,Manuel,1.6,75,442000.0
+Honda,CR-V,2018,268138,Dizel,Otomatik,2.0,230,629000.0
+Hyundai,Tucson,2022,248143,Benzin,Manuel,1.8,214,553000.0
+Audi,Q5,2019,130188,Dizel,Manuel,1.0,235,710000.0
+BMW,5 Serisi,2020,57449,Benzin,Manuel,2.2,150,815000.0
+Mercedes,E Serisi,2017,283878,LPG,Manuel,2.2,95,698000.0
+Hyundai,Tucson,2019,38774,Dizel,Manuel,1.2,162,472000.0
+Audi,A4,2024,96993,Benzin,Otomatik,1.0,192,781000.0
+Volkswagen,Golf,2012,28715,Benzin,Otomatik,1.6,78,477000.0
+BMW,3 Serisi,2011,42183,Dizel,Otomatik,2.0,75,561000.0
+Renault,Kadjar,2018,130402,Benzin,Otomatik,1.2,237,488000.0
+Volkswagen,Polo,2019,282673,Dizel,Otomatik,1.4,80,577000.0
+Ford,Focus,2012,212513,LPG,Otomatik,1.6,96,397000.0
+BMW,5 Serisi,2016,40110,Benzin,Manuel,1.8,186,729000.0
+Audi,A3,2013,256363,Benzin,Manuel,2.0,243,655000.0
+Renault,Clio,2018,16710,LPG,Manuel,2.0,189,507000.0
+Renault,Megane,2023,267592,Dizel,Manuel,1.8,98,514000.0
+Ford,Focus,2023,17794,LPG,Otomatik,1.4,241,635000.0
+Hyundai,i20,2022,86141,LPG,Otomatik,2.0,117,526000.0
+Volkswagen,Golf,2018,47782,Dizel,Manuel,2.0,229,699000.0
+BMW,5 Serisi,2017,75948,LPG,Otomatik,1.6,122,689000.0
+Fiat,Doblo,2016,190353,LPG,Manuel,1.2,244,410000.0
+Ford,Kuga,2021,222305,Dizel,Otomatik,1.6,180,574000.0
+Hyundai,i20,2010,181696,Benzin,Manuel,2.2,181,397000.0
+Mercedes,A Serisi,2016,80704,Dizel,Otomatik,1.8,118,679000.0
+Volkswagen,Passat,2014,193761,Benzin,Otomatik,2.2,127,569000.0
+Mercedes,C Serisi,2014,104129,LPG,Otomatik,2.2,157,691000.0
+Toyota,Corolla,2016,49607,Benzin,Otomatik,2.0,172,576000.0
+Mercedes,E Serisi,2012,241344,LPG,Manuel,1.4,221,628000.0
+Audi,Q5,2013,143389,Dizel,Otomatik,2.2,79,569000.0
+Ford,Focus,2020,298433,Benzin,Manuel,1.4,240,575000.0
+Toyota,Corolla,2023,239491,Dizel,Otomatik,1.2,92,593000.0
+Hyundai,Tucson,2018,248048,Dizel,Otomatik,2.2,82,458000.0
+Audi,A3,2020,171304,Dizel,Otomatik,1.0,197,702000.0
+Honda,Civic,2020,139815,Benzin,Otomatik,1.4,127,579000.0
+Audi,A4,2015,258933,Benzin,Manuel,1.6,226,657000.0
+Volkswagen,Polo,2017,81323,LPG,Otomatik,1.6,77,563000.0
+Renault,Megane,2016,128648,Dizel,Otomatik,2.2,155,469000.0
+Hyundai,i10,2017,249481,Dizel,Manuel,1.4,165,446000.0
+Mercedes,A Serisi,2013,13708,LPG,Otomatik,1.8,202,679000.0
+Hyundai,Tucson,2014,91925,Dizel,Otomatik,2.2,223,474000.0
+Volkswagen,Polo,2023,259446,Dizel,Otomatik,2.0,83,688000.0
+Fiat,500,2023,99564,LPG,Otomatik,1.0,233,485000.0
+Fiat,500,2018,228491,Dizel,Otomatik,1.0,229,418000.0
+Renault,Megane,2019,227511,LPG,Manuel,2.2,129,493000.0
+Mercedes,A Serisi,2010,223231,Benzin,Otomatik,2.2,156,598000.0
+Mercedes,E Serisi,2018,243867,Dizel,Manuel,1.8,239,794000.0
+Toyota,Corolla,2011,186667,Benzin,Manuel,1.8,152,464000.0
+Renault,Kadjar,2011,228200,Benzin,Otomatik,1.2,248,394000.0
+Fiat,Egea,2015,158297,Benzin,Otomatik,2.0,91,370000.0
+Fiat,Doblo,2015,203703,Dizel,Manuel,1.8,246,422000.0
+Toyota,Yaris,2010,98879,LPG,Otomatik,1.8,112,430000.0
+Volkswagen,Passat,2011,157791,LPG,Otomatik,1.8,167,517000.0
+Honda,CR-V,2017,4824,Benzin,Manuel,1.2,91,506000.0
+Renault,Megane,2010,170688,Benzin,Otomatik,2.0,181,389000.0
+Honda,Civic,2022,122561,Benzin,Otomatik,1.2,239,664000.0
+Ford,Kuga,2015,270735,Benzin,Manuel,2.0,223,523000.0
+Fiat,500,2018,137552,Benzin,Manuel,1.8,137,417000.0
+Honda,Civic,2017,247332,Benzin,Manuel,1.4,238,585000.0
+BMW,3 Serisi,2022,290813,LPG,Manuel,1.2,84,724000.0
+BMW,5 Serisi,2021,57948,Benzin,Manuel,2.2,175,853000.0
+Fiat,Doblo,2019,14878,Dizel,Otomatik,1.2,171,424000.0
+Toyota,RAV4,2021,129486,Dizel,Otomatik,1.8,238,679000.0
+BMW,5 Serisi,2010,217092,Benzin,Otomatik,2.2,241,658000.0
+Mercedes,A Serisi,2020,8295,Dizel,Otomatik,1.8,172,806000.0
+Ford,Focus,2019,9706,Dizel,Otomatik,1.6,173,551000.0
+Ford,Fiesta,2024,124099,Dizel,Otomatik,2.0,167,637000.0
+Renault,Clio,2022,247325,Dizel,Manuel,1.4,142,503000.0
+Toyota,RAV4,2022,107151,Benzin,Manuel,1.6,182,655000.0
+Honda,City,2016,130748,Dizel,Manuel,1.4,243,577000.0
+BMW,X5,2011,57931,Benzin,Manuel,2.0,116,588000.0
+Renault,Kadjar,2024,230514,Dizel,Manuel,1.0,97,492000.0
+BMW,5 Serisi,2013,270403,Dizel,Otomatik,2.2,206,692000.0
+Hyundai,Tucson,2017,179958,LPG,Manuel,2.0,91,442000.0
+BMW,3 Serisi,2020,183246,Dizel,Manuel,1.4,195,782000.0
+Mercedes,E Serisi,2011,6915,LPG,Otomatik,2.0,92,575000.0
+Mercedes,A Serisi,2019,34831,Dizel,Otomatik,1.0,161,719000.0
+Mercedes,A Serisi,2017,102338,Benzin,Manuel,2.2,191,778000.0
+BMW,5 Serisi,2018,124196,LPG,Manuel,1.8,187,766000.0
+Ford,Focus,2024,291897,Benzin,Otomatik,1.6,242,646000.0
+Volkswagen,Golf,2010,64766,Benzin,Manuel,1.8,92,459000.0
+Volkswagen,Golf,2015,273250,Dizel,Manuel,1.2,196,563000.0
+Renault,Kadjar,2018,181751,Benzin,Otomatik,1.6,203,488000.0
+Fiat,500,2023,55088,Dizel,Manuel,1.6,154,479000.0
+Ford,Focus,2013,24828,Benzin,Manuel,1.0,142,415000.0
+BMW,5 Serisi,2012,166318,Dizel,Manuel,1.8,101,577000.0
+Fiat,Doblo,2021,299268,LPG,Manuel,2.2,182,481000.0
+Renault,Megane,2019,40680,LPG,Otomatik,1.0,201,480000.0
+Fiat,Egea,2022,216914,LPG,Manuel,1.0,113,421000.0
+Toyota,RAV4,2019,203186,Dizel,Otomatik,1.0,117,532000.0
+Renault,Megane,2012,48441,LPG,Otomatik,1.2,189,389000.0
+Honda,City,2011,270949,LPG,Otomatik,1.2,177,440000.0
+Honda,CR-V,2014,257223,Benzin,Manuel,1.8,212,542000.0
+Fiat,Doblo,2020,142083,LPG,Otomatik,1.2,141,419000.0
+Honda,Civic,2023,181354,Benzin,Otomatik,1.6,186,670000.0
+Honda,Civic,2013,185375,Dizel,Otomatik,1.2,131,452000.0
+Hyundai,Tucson,2017,185310,Dizel,Otomatik,2.0,241,510000.0
+Renault,Clio,2016,102333,LPG,Otomatik,1.0,238,453000.0
+Toyota,Yaris,2018,274104,Dizel,Otomatik,1.0,119,512000.0
+Volkswagen,Passat,2018,166093,LPG,Manuel,2.0,204,676000.0
+Audi,Q5,2024,207113,Benzin,Otomatik,2.0,173,827000.0
+Fiat,Doblo,2016,169120,Benzin,Manuel,1.4,140,377000.0
+Honda,Civic,2016,165484,LPG,Otomatik,1.2,129,502000.0
+Hyundai,i10,2015,173181,Benzin,Otomatik,1.8,83,403000.0
+Honda,City,2014,101063,LPG,Otomatik,1.0,216,509000.0
+BMW,X5,2024,137455,LPG,Manuel,1.8,228,920000.0
+Hyundai,Tucson,2021,295386,Benzin,Otomatik,1.6,147,498000.0
+Hyundai,i20,2021,152794,Benzin,Otomatik,1.4,215,526000.0
+Volkswagen,Golf,2010,31932,Benzin,Manuel,1.2,199,489000.0
+Toyota,Corolla,2022,212673,Dizel,Otomatik,1.8,87,608000.0
+Volkswagen,Passat,2019,228439,Dizel,Manuel,1.8,143,642000.0
+Mercedes,E Serisi,2015,83659,Dizel,Otomatik,1.8,147,678000.0
+Toyota,RAV4,2014,86738,LPG,Otomatik,1.4,124,481000.0
+Mercedes,E Serisi,2023,149078,Benzin,Otomatik,1.8,192,873000.0
+Fiat,Egea,2021,209173,LPG,Otomatik,1.0,217,450000.0
+Honda,City,2020,281477,LPG,Otomatik,2.2,140,623000.0
+Toyota,Yaris,2010,33797,LPG,Otomatik,2.2,163,484000.0
+Renault,Clio,2011,66559,Benzin,Manuel,2.0,105,373000.0
+Fiat,500,2020,208222,Benzin,Manuel,2.0,190,468000.0
+Mercedes,C Serisi,2020,286745,LPG,Otomatik,1.0,99,679000.0
+Ford,Kuga,2014,185120,Benzin,Manuel,1.2,178,450000.0
+Ford,Kuga,2015,260076,Benzin,Otomatik,1.6,203,493000.0
+Ford,Focus,2024,244335,Benzin,Manuel,1.2,235,625000.0
+Mercedes,C Serisi,2016,43705,LPG,Manuel,1.4,201,712000.0
+Mercedes,A Serisi,2021,251553,Dizel,Otomatik,2.2,88,779000.0
+Volkswagen,Golf,2012,269638,LPG,Otomatik,1.0,185,491000.0
+Ford,Focus,2021,132671,Benzin,Manuel,1.6,92,534000.0
+Volkswagen,Polo,2023,160326,Dizel,Manuel,1.6,147,709000.0
+Mercedes,C Serisi,2022,193251,Benzin,Manuel,1.0,104,731000.0
+Renault,Megane,2012,87937,Benzin,Manuel,1.4,187,395000.0
+Fiat,Doblo,2011,179689,LPG,Otomatik,1.6,98,308000.0
+Hyundai,i20,2010,136003,Dizel,Manuel,1.2,120,327000.0
+Honda,City,2014,135423,Benzin,Otomatik,2.0,75,485000.0
+Fiat,Doblo,2021,191679,Benzin,Manuel,2.2,198,492000.0
+Volkswagen,Polo,2015,9090,Benzin,Otomatik,2.2,177,628000.0
+Ford,Focus,2022,162536,LPG,Otomatik,1.4,80,532000.0
+Toyota,Yaris,2020,242366,LPG,Otomatik,1.6,240,647000.0
+Renault,Kadjar,2016,90144,LPG,Manuel,2.0,79,427000.0
+Volkswagen,Golf,2015,103348,Dizel,Otomatik,2.0,214,632000.0
+Volkswagen,Passat,2023,97848,Benzin,Manuel,1.8,139,720000.0
+Toyota,Yaris,2018,86370,Dizel,Otomatik,2.2,144,602000.0
+Honda,CR-V,2021,263352,Benzin,Manuel,1.6,180,629000.0
+Mercedes,A Serisi,2013,262534,LPG,Otomatik,2.0,179,660000.0
+Hyundai,i10,2012,123125,LPG,Manuel,2.0,126,393000.0
+Volkswagen,Polo,2014,203637,Benzin,Manuel,1.6,199,575000.0
+Hyundai,i20,2012,142719,Benzin,Otomatik,1.8,116,379000.0
+Audi,Q5,2010,62265,Dizel,Manuel,1.0,166,494000.0
+Toyota,Yaris,2010,273471,Benzin,Otomatik,1.0,106,373000.0
+Ford,Kuga,2015,51979,Benzin,Otomatik,1.4,200,492000.0
+Toyota,Corolla,2019,142837,LPG,Manuel,1.4,159,580000.0
+BMW,X5,2018,75240,Benzin,Otomatik,1.2,126,685000.0
+BMW,X5,2021,49278,Dizel,Manuel,1.2,236,827000.0
+Hyundai,Tucson,2014,231617,Dizel,Otomatik,1.2,115,374000.0
+Ford,Kuga,2012,61286,LPG,Manuel,1.6,156,435000.0
+Fiat,Doblo,2024,243651,Benzin,Manuel,2.0,189,514000.0
+Ford,Kuga,2018,279357,Dizel,Otomatik,1.0,188,500000.0
+Toyota,RAV4,2010,295183,Benzin,Otomatik,2.0,134,442000.0
+Volkswagen,Golf,2010,81366,Benzin,Manuel,1.6,167,491000.0
+Mercedes,E Serisi,2017,160438,Dizel,Otomatik,1.6,104,671000.0
+BMW,3 Serisi,2014,116778,Benzin,Manuel,2.2,145,681000.0
+BMW,5 Serisi,2013,65612,Benzin,Otomatik,1.0,154,586000.0
+Toyota,Corolla,2016,205426,LPG,Otomatik,1.2,193,535000.0
+Hyundai,i20,2023,19683,LPG,Manuel,1.4,198,552000.0
+Honda,Civic,2024,259326,Benzin,Manuel,1.8,137,666000.0
+Toyota,RAV4,2011,203333,Benzin,Manuel,1.8,111,440000.0
+Honda,City,2023,172505,Benzin,Manuel,2.2,102,657000.0
+Toyota,Yaris,2013,239379,LPG,Otomatik,2.2,150,515000.0
+Ford,Fiesta,2021,13455,Benzin,Otomatik,1.0,204,566000.0
+Hyundai,Tucson,2017,77914,Benzin,Manuel,1.8,189,482000.0
+Hyundai,i10,2018,292380,Benzin,Manuel,1.2,117,426000.0
+Hyundai,i10,2018,120366,Dizel,Otomatik,1.8,177,488000.0
+Ford,Focus,2014,150177,Dizel,Otomatik,1.6,124,444000.0
+Ford,Fiesta,2019,264333,Benzin,Manuel,1.6,245,574000.0
+Renault,Clio,2022,228115,LPG,Manuel,1.0,151,490000.0
+Fiat,500,2020,276364,LPG,Manuel,1.8,166,447000.0
+Fiat,500,2021,90316,LPG,Otomatik,1.2,179,448000.0
+Fiat,Doblo,2011,135989,Benzin,Manuel,2.0,175,357000.0
+Hyundai,Tucson,2015,283956,Dizel,Manuel,2.0,137,431000.0
+Hyundai,i10,2019,277642,Dizel,Otomatik,1.6,84,444000.0
+BMW,3 Serisi,2021,115068,Dizel,Otomatik,1.2,113,736000.0
+Renault,Kadjar,2018,206465,Benzin,Otomatik,1.0,135,429000.0
+Ford,Focus,2011,99845,LPG,Otomatik,1.4,114,387000.0
+Ford,Fiesta,2010,270929,Benzin,Manuel,1.2,121,357000.0
+Hyundai,i10,2011,111895,Dizel,Otomatik,2.0,149,391000.0
+Toyota,Corolla,2022,235799,Benzin,Manuel,1.2,111,587000.0
+Fiat,Doblo,2022,22408,LPG,Otomatik,1.8,214,501000.0
+Mercedes,C Serisi,2012,82710,LPG,Otomatik,1.8,79,568000.0
+Audi,Q5,2023,195732,Benzin,Otomatik,1.2,171,755000.0
+Mercedes,E Serisi,2021,86708,Benzin,Manuel,1.4,186,803000.0
+Honda,CR-V,2016,168278,Dizel,Manuel,2.2,134,559000.0
+Renault,Kadjar,2010,216555,Dizel,Otomatik,1.8,149,363000.0
+Volkswagen,Golf,2021,153640,Benzin,Manuel,1.0,150,639000.0
+Hyundai,i10,2018,104020,Benzin,Manuel,1.2,190,468000.0
+Hyundai,i10,2017,75360,LPG,Manuel,1.0,205,453000.0
+Honda,Civic,2015,40423,Dizel,Manuel,1.0,85,457000.0
+Toyota,Corolla,2020,289835,LPG,Manuel,2.0,245,669000.0
+Fiat,Doblo,2024,256986,LPG,Otomatik,1.8,171,498000.0
+Renault,Clio,2010,162056,Benzin,Manuel,1.6,98,334000.0
+Toyota,Yaris,2020,160835,Benzin,Manuel,2.2,200,662000.0
+Honda,CR-V,2011,165685,Benzin,Manuel,1.4,165,450000.0
+Fiat,Doblo,2020,77196,Dizel,Otomatik,1.0,135,411000.0
+Toyota,Yaris,2022,193891,Benzin,Manuel,1.0,126,587000.0
+BMW,3 Serisi,2011,120438,Benzin,Manuel,1.6,153,582000.0
+Honda,Civic,2023,195452,LPG,Manuel,1.4,172,650000.0
+Audi,Q5,2021,152352,Benzin,Otomatik,2.2,217,814000.0
+Volkswagen,Passat,2018,74743,LPG,Otomatik,1.8,122,621000.0
+Fiat,Doblo,2024,39076,LPG,Otomatik,1.4,177,493000.0
+Honda,City,2018,192684,Benzin,Manuel,2.0,233,635000.0
+Honda,City,2015,39294,LPG,Manuel,2.2,247,612000.0
+Hyundai,i20,2024,278070,Dizel,Manuel,1.8,176,562000.0
+Honda,CR-V,2018,37686,Benzin,Otomatik,1.4,236,612000.0
+Hyundai,Tucson,2017,204865,Benzin,Manuel,1.6,132,442000.0
+Renault,Megane,2019,288012,Benzin,Manuel,1.6,121,460000.0
+Honda,City,2015,144615,Benzin,Otomatik,2.0,88,508000.0
+BMW,X5,2014,150438,Benzin,Otomatik,2.2,78,632000.0
+Mercedes,C Serisi,2016,195387,LPG,Otomatik,2.2,217,768000.0
+Ford,Fiesta,2018,100431,LPG,Otomatik,1.8,185,547000.0
+Fiat,500,2019,132478,Dizel,Manuel,1.2,164,416000.0
+Honda,Civic,2013,258419,Dizel,Manuel,2.0,219,541000.0
+Renault,Clio,2011,143160,Dizel,Otomatik,1.4,233,400000.0
+Audi,Q5,2017,88581,LPG,Otomatik,1.2,156,635000.0
+Toyota,Yaris,2023,282540,Benzin,Manuel,2.0,246,719000.0
+Ford,Kuga,2018,268812,Dizel,Otomatik,2.0,221,567000.0
+Toyota,Corolla,2021,137203,Benzin,Otomatik,1.2,94,567000.0
+Toyota,RAV4,2014,270516,LPG,Otomatik,1.4,135,477000.0
+Mercedes,A Serisi,2014,64143,Dizel,Manuel,1.6,143,642000.0
+Honda,CR-V,2014,178596,Dizel,Manuel,1.8,155,515000.0
+Ford,Kuga,2013,22957,LPG,Otomatik,1.8,213,490000.0
+Fiat,500,2022,116508,Dizel,Otomatik,2.2,192,504000.0
+Fiat,Egea,2023,269387,Benzin,Otomatik,2.0,220,513000.0
+Volkswagen,Polo,2011,130113,Benzin,Otomatik,2.2,87,494000.0
+Hyundai,i10,2014,216321,Benzin,Otomatik,2.0,118,412000.0
+Fiat,Doblo,2024,241376,Benzin,Manuel,2.0,149,498000.0
+Hyundai,i10,2016,214380,LPG,Otomatik,1.4,218,457000.0
+Honda,City,2022,83948,LPG,Manuel,1.0,81,568000.0
+BMW,3 Serisi,2014,80861,Benzin,Otomatik,1.8,77,608000.0
+Ford,Fiesta,2017,167799,LPG,Manuel,1.0,226,510000.0
+Renault,Clio,2015,176031,Dizel,Otomatik,2.0,172,452000.0
+Fiat,500,2021,37478,Dizel,Otomatik,2.0,186,485000.0
+BMW,X5,2010,145452,LPG,Otomatik,1.0,239,577000.0
+Fiat,Egea,2013,47233,LPG,Manuel,1.2,106,325000.0
+Volkswagen,Golf,2016,164117,Dizel,Manuel,2.0,241,663000.0
+Toyota,RAV4,2012,176091,Dizel,Otomatik,1.6,214,504000.0
+Toyota,Yaris,2014,245639,Dizel,Otomatik,1.6,202,527000.0
+Mercedes,E Serisi,2019,255213,LPG,Otomatik,1.0,191,725000.0
+Honda,CR-V,2024,232369,Benzin,Manuel,1.8,169,685000.0
+BMW,X5,2024,185609,Dizel,Manuel,1.6,133,836000.0
+Ford,Kuga,2024,288450,Benzin,Otomatik,1.2,170,591000.0
+Ford,Fiesta,2016,45615,LPG,Manuel,1.6,207,521000.0
+Renault,Clio,2019,164861,Dizel,Manuel,2.2,103,484000.0
+Renault,Clio,2020,26576,Benzin,Otomatik,1.8,104,487000.0
+Hyundai,i10,2022,178043,Dizel,Otomatik,1.2,221,532000.0
+Toyota,Yaris,2020,137372,Dizel,Otomatik,2.2,124,622000.0
+Hyundai,i10,2010,201265,Dizel,Otomatik,1.6,169,364000.0
+Honda,Civic,2023,56698,Dizel,Manuel,2.0,132,669000.0
+Honda,CR-V,2024,23777,LPG,Otomatik,1.8,236,733000.0
+Hyundai,Tucson,2010,143007,LPG,Otomatik,1.6,161,363000.0
+BMW,3 Serisi,2015,56672,LPG,Manuel,2.2,166,721000.0
+Ford,Focus,2012,211297,Benzin,Otomatik,2.0,164,451000.0
+Audi,A3,2018,290202,Dizel,Manuel,1.4,202,684000.0
+BMW,3 Serisi,2019,243807,LPG,Manuel,2.0,193,797000.0
+Fiat,500,2013,102442,Benzin,Manuel,1.8,166,370000.0
+Hyundai,i10,2011,20380,Benzin,Otomatik,2.0,207,421000.0
+BMW,5 Serisi,2016,205837,Benzin,Otomatik,1.2,91,609000.0
+Audi,A4,2021,119135,LPG,Manuel,1.0,136,685000.0
+BMW,5 Serisi,2020,126274,LPG,Otomatik,2.0,223,847000.0
+Fiat,500,2013,226900,Dizel,Manuel,1.0,236,361000.0
+Ford,Kuga,2019,283394,Benzin,Otomatik,1.8,122,522000.0
+Audi,A3,2014,120378,LPG,Otomatik,1.6,91,558000.0
+Fiat,Egea,2015,299594,Dizel,Manuel,1.0,185,362000.0
+Ford,Kuga,2022,178333,Dizel,Otomatik,2.2,176,619000.0
+Volkswagen,Golf,2017,293379,Dizel,Otomatik,1.8,114,585000.0
+Ford,Kuga,2011,197205,Dizel,Manuel,1.6,209,440000.0
+Renault,Kadjar,2012,244001,Dizel,Manuel,1.0,201,376000.0
+Hyundai,i20,2014,109630,Dizel,Otomatik,1.4,87,376000.0
+Mercedes,E Serisi,2011,90990,Dizel,Manuel,1.4,180,589000.0
+Mercedes,C Serisi,2010,78236,LPG,Otomatik,2.2,91,562000.0
+Mercedes,E Serisi,2015,239874,Dizel,Manuel,2.2,117,674000.0
+Volkswagen,Passat,2013,141795,Benzin,Otomatik,1.4,103,491000.0
+Honda,Civic,2020,218626,Dizel,Otomatik,1.4,132,578000.0
+Honda,City,2010,67775,Dizel,Manuel,1.0,245,461000.0
+Mercedes,A Serisi,2012,122854,LPG,Otomatik,1.4,184,610000.0
+Toyota,Corolla,2021,118555,Dizel,Manuel,1.6,205,651000.0
+Audi,Q5,2022,264152,Benzin,Manuel,2.0,235,825000.0
+Audi,A3,2010,141582,Benzin,Manuel,2.0,90,504000.0
+Honda,City,2017,116125,LPG,Manuel,2.0,96,547000.0
+Volkswagen,Golf,2022,34550,Dizel,Otomatik,1.0,199,693000.0
+Hyundai,i10,2021,115032,Dizel,Otomatik,2.0,84,496000.0
+Audi,A3,2024,139508,Dizel,Otomatik,1.2,224,813000.0
+Volkswagen,Golf,2023,50747,Dizel,Manuel,1.2,160,699000.0
+Volkswagen,Polo,2021,129261,Dizel,Otomatik,2.0,157,704000.0
+Toyota,Yaris,2014,255858,Dizel,Otomatik,1.2,132,466000.0
